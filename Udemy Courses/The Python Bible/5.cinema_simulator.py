@@ -26,4 +26,4 @@ while True:
         break
 
     else:
-        print('We do not h ave that film...')
+        print('We do not have that film...')
