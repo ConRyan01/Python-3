@@ -55,7 +55,7 @@ while remaining_chars > 0:
   remaining_chars -= 1
 
 full_pass = ''.join(password)
-print(full_pass)
+print(f'Your Password is: {full_pass}')
 
 #Would i have used list methods, shuffle would have made this much cleaner and easier
 
